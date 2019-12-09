@@ -13,6 +13,8 @@
     "webpack-cli": "^3.3.6"
   },
   "dependencies": {
-    "tabsy-css": "^1.0.0"
+    "serialize-javascript": "^2.1.2",
+    "tabsy-css": "^1.0.0",
+    "terser-webpack-plugin": "^2.2.2"
   }
 }
